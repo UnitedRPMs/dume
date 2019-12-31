@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=DuME
+GenericName=Video Editor
+Comment=Video Editor
+Exec=DuME
+Terminal=false
+Type=Application
+Icon=dume
